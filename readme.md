@@ -1,18 +1,26 @@
-_readme.md_
-
 **This project:**
-
+-
 Create a program to be a "mathemagician".
 
 In the first example, circles.
 
-Start your program working out what the features of a circle are and how to calculate them.
+
+> `Start` your program working out what the features of a circle are and how to calculate them.
+>
+eg Area, Circumference, Diameter, Radius
 
 Then develop a program to prompt for a relevant input and calculate the properties.
 
-User Interface.
+> Create an `attractive` User interface.
 
-Key things to do: Create a nice menu page, ASCII art ?
+Key things yoo could do: Create a nice menu page using appropriate ASCII art ?
+
+     ("`-''-/").___..--''"`-._
+      `6_ 6  )   `-.  (     ).`-.__.`)
+      (_Y_.)'  ._   )  `._ `. ``-..-'
+     _..`--'_..-_/  /--'_.' ,'
+    (il),-''  (li),'  ((!.-'    Felix Lee <flee@cse.psu.edu>
+
 Loop the program until the user exits.
 
 Start with circles.... then develop with more shapes...
